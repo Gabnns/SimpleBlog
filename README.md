@@ -17,7 +17,8 @@ Descubra um blog elegante e responsivo, criado com as tecnologias fundamentais d
 </p>
 
 
-  ![MagazineModel](https://user-images.githubusercontent.com/86312347/234649961-808aff0c-1974-407d-8086-6f472d83575d.jpeg)
+  ![Simple Blog](https://github.com/Gabnns/SimpleBlog/assets/86312347/825000d9-1d78-4fab-8382-312f98a33164)
+)
 
 
 
