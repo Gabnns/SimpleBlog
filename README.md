@@ -39,7 +39,7 @@ Descubra um blog elegante e responsivo, criado com as tecnologias fundamentais d
 - O layout do blog é projetado de forma limpa e organizada, proporcionando aos leitores uma experiência agradável em qualquer dispositivo - desde desktops até smartphones.
 - O projeto foi construído com expansibilidade em mente. À medida que desejar que o blog cresça, novos recursos, categorias e recursos podem ser facilmente incorporados.
 
-- [Visite o projeto online]()!
+- [Visite o projeto online](https://gabnns.github.io/SimpleBlog/)!
 
 ## 🔖 Layout
 
