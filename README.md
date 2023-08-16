@@ -18,7 +18,7 @@ Descubra um blog elegante e responsivo, criado com as tecnologias fundamentais d
 
 
   ![Simple Blog](https://github.com/Gabnns/SimpleBlog/assets/86312347/825000d9-1d78-4fab-8382-312f98a33164)
-)
+
 
 
 
@@ -43,7 +43,7 @@ Descubra um blog elegante e responsivo, criado com as tecnologias fundamentais d
 
 ## 🔖 Layout
 
-- Projeto realizado baseado no layout existente criado pela Codelândia. <br>
+- Projeto realizado baseado no layout e desafio imposto pela Codelândia. <br>
  [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=139-51&mode=design&t=YdSMIXkMURioOAr4-0)
 
 

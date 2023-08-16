@@ -105,3 +105,14 @@ section .main-content .box .box-description{
     font-size: 18px;
     font-weight: 300;
 }
+
+
+
+@media (max-width: 1200px){
+  header .header-content{
+    width: 80%;
+  }
+  section .main-content{
+    width: 80%;
+  }
+}
