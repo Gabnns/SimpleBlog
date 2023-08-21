@@ -14,6 +14,7 @@ function search() {
         }
     }
 }
+search();
 
 function favoritar(){
     const icon = document.querySelectorAll(".fa-regular");
